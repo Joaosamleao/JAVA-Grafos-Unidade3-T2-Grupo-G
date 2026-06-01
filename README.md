@@ -37,3 +37,10 @@
    java src/Main.java
    ```
 * Modifique o arquivo em dados/entrada_do_problema.txt e insira uma nova lista de adjacência caso queira casos de teste adicionais.
+
+---
+
+### Evidência CSES
+
+<img width="493" height="173" alt="image" src="https://github.com/user-attachments/assets/2fcde098-b428-48d3-8c8a-5e969fcf32af" />
+
