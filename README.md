@@ -22,11 +22,11 @@
 ## Como Executar a Solução
 
 ### Pré-requisitos
-* Ter o [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/) instalado na sua máquina.
+* Ter o [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/).
 
 ### Executando no Terminal / Prompt de Comando
 
-1. Clone este repositório ou baixe o arquivo fonte (`FlightDiscount.java`).
+1. Clone este repositório ou baixe o arquivo fonte (`Main.java`).
 2. Abra o terminal e navegue até a pasta onde o arquivo está localizado.
 3. Compile o código executando:
    ```bash
