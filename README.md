@@ -30,10 +30,10 @@
 2. Abra o terminal e navegue até a pasta onde o arquivo está localizado.
 3. Compile o código executando:
    ```bash
-   javac Main.java
+   javac src/Main.java
    ```
 4. Execute o programa executando:
    ```bash
-   java Main
+   java src/Main.java
    ```
 * Modifique o arquivo em dados/entrada_do_problema.txt e insira uma nova lista de adjacência caso queira casos de teste adicionais.
